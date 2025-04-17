@@ -6,7 +6,13 @@ Petit point : le symbole "€" ne s'affiche pas, par conséquent il sera affich�
 
 Ce keylogger est une première version, il est encore en cours de développement pour de nouvelles MAJ
 
+
+
+
+
 Ajout prochainement pour la V2 :
+
+
 
 Séparateur : Saut à la ligne pour chaque touche [ENTER] pressé dans le fichier keylog.txt
 
