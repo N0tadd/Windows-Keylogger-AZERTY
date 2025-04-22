@@ -13,9 +13,6 @@ Ce keylogger est une première version, il est encore en cours de développement
 Ajout prochainement pour la V2 :
 
 
-
-Séparateur : Saut à la ligne pour chaque touche [ENTER] pressé dans le fichier keylog.txt
-
 Capture de fenêtre : Information sur les onglets ouverts
 
 Cryptage des logs : Le fichier keylog.txt sera chiffré et pourra être déchiffré uniquement par l'attaquant
@@ -23,3 +20,5 @@ Cryptage des logs : Le fichier keylog.txt sera chiffré et pourra être déchiff
 Obfuscation : Keylogger indétectable par Windows Defender
 
 Log à distance : Probablement un version où les logs pourrait être envoyé à l'attaquant via SMTP
+
+Registre : Démarrage du programme depuis le registre windows après intégration
